@@ -1,0 +1,66 @@
+<resources>
+    <string-array name="anime_titles">
+        <item>Attack on Titan</item>
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Your Lie in April</item>
+        <item>Cowboy Bebop</item>
+        <item>Spirited Away</item>
+        <item>Dragon Ball Z</item>
+        <item>Death Note</item>
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>Hunter x Hunter</item>
+        <item>Berserk</item>
+        <item>Steins;Gate</item>
+        <item>My Hero Academia</item>
+        <item>Demon Slayer: Kimetsu no Yaiba</item>
+        <item>Death Parade</item>
+        <item>Monogatari Series</item>
+        <item>Sword Art Online</item>
+        <item>Mushishi</item>
+        <item>Given</item>
+        <item>Haikyuu!!</item>
+        <item>Neon Genesis Evangelion</item>
+        <item>Fairy Tail</item>
+        <item>Kaiji: Ultimate Survivor</item>
+        <item>Mob Psycho 100</item>
+        <item>Akira</item>
+        <item>No Game No Life</item>
+        <item>Welcome to the NHK</item>
+        <item>Fate/stay night: Unlimited Blade Works</item>
+        <item>Higurashi: When They Cry</item>
+        <item>Ghost in the Shell</item>
+    </string-array>
+
+    <string name="app_name">30 Anime Tips</string>
+    <string name="tip1">Watch "Attack on Titan" for intense action and suspense.</string>
+    <string name="tip2">Explore the mystical world of "Naruto" and its ninjas.</string>
+    <string name="tip3">Experience the epic journey of "One Piece" and its pirate adventures.</string>
+    <string name="tip4">Discover the emotional rollercoaster of "Your Lie in April."</string>
+    <string name="tip5">Get immersed in the cyberpunk dystopia of "Cowboy Bebop."</string>
+    <string name="tip6">Dive into the magical realm of "Spirited Away" by Studio Ghibli.</string>
+    <string name="tip7">Embark on a quest for the "Dragon Balls" in "Dragon Ball Z."</string>
+    <string name="tip8">Witness the psychological battles in "Death Note."</string>
+    <string name="tip9">Experience the thrilling adventures of "Fullmetal Alchemist: Brotherhood."</string>
+    <string name="tip10">Join the hunt for supernatural creatures in "Hunter x Hunter."</string>
+    <string name="tip11">Explore the dark fantasy world of "Berserk."</string>
+    <string name="tip12">Get hooked on the mysteries of "Steins;Gate."</string>
+    <string name="tip13">Discover the power of friendship in "My Hero Academia."</string>
+    <string name="tip14">Experience the exhilarating battles in "Demon Slayer: Kimetsu no Yaiba."</string>
+    <string name="tip15">Unravel the secrets of the afterlife in "Death Parade."</string>
+    <string name="tip16">Explore the supernatural mysteries in "Monogatari Series."</string>
+    <string name="tip17">Dive into the virtual reality world of "Sword Art Online."</string>
+    <string name="tip18">Discover the beauty of traditional Japanese culture in "Mushishi."</string>
+    <string name="tip19">Explore the music and drama of "Given."</string>
+    <string name="tip20">Witness the power of determination in "Haikyuu!!"</string>
+    <string name="tip21">Experience the mecha battles in "Neon Genesis Evangelion."</string>
+    <string name="tip22">Embark on an adventure with "Fairy Tail" and its guild of wizards.</string>
+    <string name="tip23">Join the high-stakes world of gambling in "Kaiji: Ultimate Survivor."</string>
+    <string name="tip24">Discover the supernatural abilities in "Mob Psycho 100."</string>
+    <string name="tip25">Explore the post-apocalyptic world of "Akira."</string>
+    <string name="tip26">Experience the thrilling world of professional gaming in "No Game No Life."</string>
+    <string name="tip27">Discover the complexities of adolescence in "Welcome to the NHK."</string>
+    <string name="tip28">Witness the epic battles in "Fate/stay night: Unlimited Blade Works."</string>
+    <string name="tip29">Experience the horror and mystery of "Higurashi: When They Cry."</string>
+    <string name="tip30">Dive into the cyberpunk universe of "Ghost in the Shell."</string>
+</resources>
